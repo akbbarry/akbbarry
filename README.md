@@ -94,6 +94,8 @@ https://github.com/akbbarry
 Email:
 alexbarrykeriwel123@gmail.com
 
+GitLab:
+https://gitlab.com/Alkerix
 ---
 
 ⭐ Always learning and building new DevOps projects.
