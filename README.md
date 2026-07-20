@@ -4,7 +4,7 @@
 
 Computer Science graduate passionate about cloud computing, automation, Infrastructure as Code, and CI/CD.
 
-Currently expanding my monitoring skills with Prometheus while building real-world DevOps projects.
+Currently building monitoring and observability solutions with Prometheus while continuing to develop real-world DevOps projects.
 
 ---
 
